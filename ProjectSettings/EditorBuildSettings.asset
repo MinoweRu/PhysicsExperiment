@@ -12,13 +12,13 @@ EditorBuildSettings:
     path: Assets/Furniture_ges1/scene.unity
     guid: 634c41117f48a1940933d58845b6f252
   - enabled: 1
-    path: Assets/Oculus/SampleFramework/Usage/DistanceGrab.unity
+    path: Assets/Minowe/scene/DistanceGrab.unity
     guid: 24f58b3f0ca02d44eaec7f50bca538f2
   - enabled: 1
-    path: Assets/Oculus/SampleFramework/Usage/ToTheMoon.unity
+    path: Assets/Minowe/scene/ToTheMoon.unity
     guid: d8f9548d8bdeb2347ab4c34749493eb8
   - enabled: 1
-    path: Assets/Oculus/SampleFramework/Usage/Universe.unity
+    path: Assets/Minowe/scene/Universe.unity
     guid: fa23e5ab9ea93ae42b08a5ff157d8415
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 398ccadc3e122ff4985950e7705a571b, type: 2}
